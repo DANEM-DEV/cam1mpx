@@ -99,6 +99,8 @@ import android.widget.ZoomControls;
 
 /** The main Activity for Open Camera.
  */
+
+//test commit
 public class MainActivity extends Activity {
     private static final String TAG = "MainActivity";
 
